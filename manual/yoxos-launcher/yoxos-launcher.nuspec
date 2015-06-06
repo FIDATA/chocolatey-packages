@@ -20,9 +20,9 @@ This version is based on Eclipse 3.6.1 which requires JRE 1.5+ (works with 1.4 t
     <projectUrl>https://yoxos.eclipsesource.com/</projectUrl>
     <tags>yoxos-launcher,yoxos,eclipse</tags>
     <copyright>EclipseSource 2013</copyright>
-    <licenseUrl>https://cdn.rawgit.com/FIDATA/chocolatey-packages/master/manual/yoxos-launcher/licenses/licenses.html</licenseUrl>
+    <licenseUrl>https://cdn.rawgit.com/FIDATA/chocolatey-packages/d6c8613e6315b62688de70138523910b44332050/manual/yoxos-launcher/licenses/licenses.html</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-	<iconUrl>https://cdn.rawgit.com/FIDATA/chocolatey-packages/master/manual/yoxos-launcher/icon.png</iconUrl>
+	<iconUrl>https://cdn.rawgit.com/FIDATA/chocolatey-packages/d6c8613e6315b62688de70138523910b44332050/manual/yoxos-launcher/icon.png</iconUrl>
     <releaseNotes/>
   </metadata>
   <files>
