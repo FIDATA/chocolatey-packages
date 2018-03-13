@@ -3,7 +3,7 @@
 # Based on work made by dtgm
 # at https://github.com/dtgm/chocolatey-packages/tree/master/automatic/_output/sdelete/1.61.0.20160210
 # 
-# This file is part of FIDATA Infrastructure.
+# This file is part of FIDATA Chocolatey Packages.
 # 
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
